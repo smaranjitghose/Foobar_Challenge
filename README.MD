@@ -60,34 +60,34 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 ### Level 1: 
 
-| Problem | Solution |
+| Problem | Solution(s) |
 |---------|----------|
-| I Love Lance and Janice | [Soln](Solutions_Python/i_love_lance_and_janice.py) |
+| I Love Lance and Janice | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
 
 ### Level 2: 
 
 | Problem | Solution |
 |---------|----------|
-| Please Pass the Coded Messages | [Soln](Solutions_Python/please_pass_the_coded_messages.py) |
-| Numbers Station Coded Messages | [Soln](Solutions_Python/number_station_coded_messages.py) |
+| Please Pass the Coded Messages | [Solution](Solutions_Python/please_pass_the_coded_messages.py) |
+| Numbers Station Coded Messages | [Solution](Solutions_Python/number_station_coded_messages.py) |
 
 ### Level 3: 
 
 | Problem | Solution |
 |---------|----------|
-| Queue To Do | [Soln](Solutions_Python/queue_to_do.py) |
-| The Grandest Staircase of them All | [Soln](Solutions_Python/the_grandest_staircase_of_them_all.py) |
-| Find the Access Codes | [Soln](Solutions_Python/find_the_access_codes.py) |
+| Queue To Do | [Solution](Solutions_Python/queue_to_do.py) |
+| The Grandest Staircase of them All | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
+| Find the Access Codes | [Solution](Solutions_Python/find_the_access_codes.py) |
 
 ### Level 4: 
 
 | Problem | Solution |
 |---------|----------|
-| Bringing Gun to Guard Fight  | [Sol](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
-| Running with the bunnies | [Sol](Solutions_Python/running_with_the_bunnies.py)|
+| Bringing Gun to Guard Fight  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
+| Running with the bunnies | [Solution](Solutions_Python/running_with_the_bunnies.py)|
 
 ### Level 5: 
 
 | Problem | Solution |
 |---------|----------|
-|         |          |
+| Disorderly Escape | [Solution](Solutions_Python/disorderly_escape.py)        |
