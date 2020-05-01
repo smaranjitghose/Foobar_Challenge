@@ -3,21 +3,21 @@
 
 The Google Foo bar challenge is a known in the dev community to be a secret way Google shortlists developers. However, the way it works and the end result is not transparent yet.
 
-<p align="center"><img width=20% src="https://media.giphy.com/media/THXafM2DiFKmCwZDfP/giphy.gif"></p>
+<p align="center"><img width=30% src="https://media.giphy.com/media/THXafM2DiFKmCwZDfP/giphy.gif"></p>
 
 While debugging an error in a  personal project of mine, I suddenly got a invite for this.
 
-<p align="center"><img width=60% src="https://github.com/smaranjitghose/Foobar_Challenge/blob/master/assets/level_1_completion.mp4"></p>
+<p align="center"><img width=60% src="https://github.com/smaranjitghose/Foobar_Challenge/blob/master/assets/foobar_invite.jpg"></p>
 
 And I tuned in to explore it.
 
 
-<p align="center"><img width=20% src="https://media.giphy.com/media/LSX5dYGZJ2Z7fy5rA4/giphy.gif"></p>
+<p align="center"><img width=40% src="https://media.giphy.com/media/LSX5dYGZJ2Z7fy5rA4/giphy.gif"></p>
 
 
 __I cannot suggest a guranteed way to get this or if actually Google is going to hire you via this process.__
 
-<p align="center"><img width=20% src="https://media.giphy.com/media/21N2l4CJRuqX7eeJhg/giphy.gif"></p>
+<p align="center"><img width=30% src="https://media.giphy.com/media/21N2l4CJRuqX7eeJhg/giphy.gif"></p>
 
 However, the problems were really nice and beautifull distributed across 5 levels of difficulty.
 
@@ -25,12 +25,10 @@ This repo is meant to provide you a taste of the problems I was given so that yo
 
 __Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficienct ones out there__
 
-<p align="center"><img width=20% src="assets/level_1_completion.mp4"></p>
-
 
 <h2 align= "center"><b> Suggestions and Solutions </b></h2>
 
-<p align="center"><img width=20% src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif"></p>
+<p align="center"><img width=30% src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif"></p>
 
 ##### Some suggestions for a headstart(if you get invited for this):
 
