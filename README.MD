@@ -92,4 +92,4 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 |---------|----------|
 | [Disorderly Escape](Problems/disorderly_escape.MD) | [Solution](Solutions_Python/disorderly_escape.py)|
 
-<p align="center"><img width=40% src="assets/all_levels_completion.gif"></p>
+<p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
