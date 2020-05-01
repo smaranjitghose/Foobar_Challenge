@@ -62,21 +62,21 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution |
 |---------|----------|
-| I Love Lance and Janice |[Soln](solutions_py/i_love_lance_and_janice.py)|
+| I Love Lance and Janice | [Soln](solutions_py/i_love_lance_and_janice.py) |
 
 ### Level 2: 
 
 | Problem | Solution |
 |---------|----------|
-| Please Pass the Coded Messages |[Soln](solutions_py/please_pass_the_coded_messages.py)|
-| Numbers Station Coded Messages |[Soln](solutions_py/number_station_coded_messages.py)|
+| Please Pass the Coded Messages | [Soln](solutions_py/please_pass_the_coded_messages.py) |
+| Numbers Station Coded Messages | [Soln](solutions_py/number_station_coded_messages.py) |
 
 ### Level 3: 
 
 | Problem | Solution |
 |---------|----------|
 | Queue To Do | [Soln](solutions_py/queue_to_do.py) |
-| |  |
+| The Grandest Staircase of them All | [Soln](solutions_py/the_grandest_staircase_of_them_all.py) |
 | | |
 
 ### Level 4: 
