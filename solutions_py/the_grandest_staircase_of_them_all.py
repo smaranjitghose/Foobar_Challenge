@@ -1,4 +1,4 @@
-def answer(n):
+def solution(n):
     st = [[0] * n for _ in range(n + 1)]
     st[0][0] = st[1][1] = st[2][2] = 1
 

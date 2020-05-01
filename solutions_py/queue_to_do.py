@@ -1,4 +1,4 @@
-def answer(start, length):
+def solution(start, length):
 
     def bulk_xor(m, n):
         m -= 1
