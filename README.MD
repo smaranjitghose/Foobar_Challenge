@@ -69,7 +69,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 | Problem | Solution |
 |---------|----------|
 | Please Pass the Coded Messages |[Soln](solutions_py/please_pass_the_coded_messages.py)|
-| Numbers Station Coded Messages |[Soln](solutions_py/number_station_coded_messages.py|)
+| Numbers Station Coded Messages |[Soln](solutions_py/number_station_coded_messages.py)|
 
 ### Level 3: 
 
