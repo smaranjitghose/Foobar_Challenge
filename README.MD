@@ -76,7 +76,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 | Problem | Solution(s) |
 |---------|----------|
 | Queue To Do | [Solution](Solutions_Python/queue_to_do.py) |
-| The Grandest Staircase of them All | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
+| [The Grandest Staircase of them All](Problems/the_grandest_staircase_of_them_all.MD) | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
 | Find the Access Codes | [Solution](Solutions_Python/find_the_access_codes.py) |
 
 ### Level 4: 
