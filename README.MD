@@ -7,7 +7,7 @@ The Google Foo bar challenge is a known in the dev community to be a secret way 
 
 While debugging an error in a  personal project of mine, I suddenly got a invite for this.
 
-<p align="center"><img width=60% src="assets/foobar_invite.jpg"></p>
+<p align="center"><img width=60% src="https://github.com/smaranjitghose/Foobar_Challenge/blob/master/assets/level_1_completion.mp4"></p>
 
 And I tuned in to explore it.
 
