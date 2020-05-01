@@ -90,4 +90,6 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution(s) |
 |---------|----------|
-| Disorderly Escape | [Solution](Solutions_Python/disorderly_escape.py)        |
+| Disorderly Escape | [Solution](Solutions_Python/disorderly_escape.py)|
+
+<p align="center"><img width=40% src="assets/all_levels_completion.gif"></p>
