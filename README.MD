@@ -62,7 +62,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution(s) |
 |---------|----------|
-| I Love Lance and Janice | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
+| [I Love Lance and Janice](Problems/i_love_lance_and_janice.MD) | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
 
 ### Level 2: 
 
