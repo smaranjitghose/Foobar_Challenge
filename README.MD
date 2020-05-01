@@ -62,13 +62,13 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution |
 |---------|----------|
-| I Love Lance and Janice  | [Soln](solutions_py/i_love_lance_and_janice.py)         |
+| I Love Lance and Janice  | [Soln](solutions_py/i_love_lance_and_janice.py)  |
 
 ### Level 2: 
 
 | Problem | Solution |
 |---------|----------|
-|         |          |
+| Please Pass the Coded Messages | [Soln](solutions_py/please_pass_the_coded_messages.py)        |
 
 ### Level 3: 
 
