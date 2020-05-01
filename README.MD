@@ -75,7 +75,9 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution |
 |---------|----------|
-|         |          |
+| Queue To Do | [Soln](solutions_py/queue_to_do.py) |
+| |  |
+| | |
 
 ### Level 4: 
 
