@@ -83,7 +83,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution |
 |---------|----------|
-| Bringing Gun to Guard Fight  | [Sol](solutions_py/bringing_gun_to_a_guard_fight.py) |
+| Bringing Gun to Guard Fight  | [Soln](solutions_py/bringing_gun_to_a_guard_fight.py) |
 
 ### Level 5: 
 
