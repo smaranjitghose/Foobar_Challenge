@@ -83,8 +83,8 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 | Problem | Solution(s) |
 |---------|----------|
-| Bringing Gun to Guard Fight  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
-| Running with the bunnies | [Solution](Solutions_Python/running_with_the_bunnies.py)|
+| [Bringing Gun to Guard Fight](Problems/bringing_gun_to_guard_fight.MD)  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
+| [Running with the bunnies](Problems/running_with_bunnies.MD) | [Solution](Solutions_Python/running_with_the_bunnies.py)|
 
 ### Level 5: 
 
