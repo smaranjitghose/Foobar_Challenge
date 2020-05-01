@@ -1,4 +1,4 @@
-def answer(l, t):
+def solution(l, t):
     length = len(l)
     for start_index in range(length):
         for end_index in range(start_index, length):
