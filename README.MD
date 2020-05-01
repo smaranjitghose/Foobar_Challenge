@@ -77,7 +77,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 |---------|----------|
 | Queue To Do | [Soln](solutions_py/queue_to_do.py) |
 | The Grandest Staircase of them All | [Soln](solutions_py/the_grandest_staircase_of_them_all.py) |
-| | |
+| Find the Access Codes | [Soln](solutions_py/i_love_lance_and_janice.py) |
 
 ### Level 4: 
 
