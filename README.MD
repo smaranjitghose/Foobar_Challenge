@@ -66,14 +66,14 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 ### Level 2: 
 
-| Problem | Solution |
+| Problem |Solution(s)|
 |---------|----------|
 | Please Pass the Coded Messages | [Solution](Solutions_Python/please_pass_the_coded_messages.py) |
 | Numbers Station Coded Messages | [Solution](Solutions_Python/number_station_coded_messages.py) |
 
 ### Level 3: 
 
-| Problem | Solution |
+| Problem | Solution(s) |
 |---------|----------|
 | Queue To Do | [Solution](Solutions_Python/queue_to_do.py) |
 | The Grandest Staircase of them All | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
@@ -81,13 +81,13 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 ### Level 4: 
 
-| Problem | Solution |
+| Problem | Solution(s) |
 |---------|----------|
 | Bringing Gun to Guard Fight  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
 | Running with the bunnies | [Solution](Solutions_Python/running_with_the_bunnies.py)|
 
 ### Level 5: 
 
-| Problem | Solution |
+| Problem | Solution(s) |
 |---------|----------|
 | Disorderly Escape | [Solution](Solutions_Python/disorderly_escape.py)        |
