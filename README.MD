@@ -1,6 +1,5 @@
 <h1 align= "center"><b>Foobar Challenge </b></h1>
 
-
 The Foo bar challenge by Google is a known in the dev community to be a secret way Google shortlists developers. However, the way it works and the end result is not known yet.
 
 Now, there are several ways for getting an invite. For some of us it may be random based on our search history. For others, it can be triggered. The following video by [Aaishika](https://github.com/aaishikasb) provides a nice walthrough for this:
