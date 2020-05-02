@@ -23,7 +23,7 @@ However, the problems were really nice and beautifull distributed across 5 level
 
 This repo is meant to provide you a taste of the problems I was given so that you can practice and hone your skills further!
 
-__Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficienct ones out there__
+__Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficient ones out there__
 
 
 <h2 align= "center"><b> Suggestions and Solutions </b></h2>
