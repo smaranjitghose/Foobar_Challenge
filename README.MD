@@ -104,6 +104,7 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | [Numbers Station Coded Messages](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/number_station_coded_messages.py) |
 | [* Hey I already did that](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/hey_i_already_did_that.py)|
 | [** Power Hungry](Problems/power_hungry.MD) | [Solution](Solutions_Python/power_hungry.py)|
+| [*** Lovely Lucky Lambs](Problems/lovely_lucky_lambs.MD) | [Solution](Solutions_Python/lovely_lambs.py)|
 
 ### Level 3: 
 
@@ -139,5 +140,5 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 
 - [* Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [** Suhrid Datta](https://github.com/suhriddatta)
-- [*** Aaishika Bhattacharya](https://github.com/aaishikasb)
+- [*** Somesh Koli](https://github.com/someshkoli)
   
