@@ -1,9 +1,9 @@
 def​ ​solution(xs):
-​ ​​ ​​ ​​ ​#​ ​your​ ​code​ ​here
-
+    
     # handle simple edge cases
     if len(xs) == 0:
         return str(0)
+    
     if len(xs) == 1:
         return str(xs[0])
 
