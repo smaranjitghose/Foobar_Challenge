@@ -97,8 +97,8 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
 
-##### Contributors:
+##### Contributors of problems:
 
-- [Smaranjit Ghose](https://github.com/smaranjitghose)
 - [* Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [** Suhrid Datta](https://github.com/suhriddatta)
+  
