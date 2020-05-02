@@ -63,6 +63,7 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 | Problem | Solution(s) |
 |---------|----------|
 | [I Love Lance and Janice](Problems/i_love_lance_and_janice.MD) | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
+| [Prison Labor Dodgers ^](Problems/prison_labor_dodgers.MD) | [Solution](Solutions_Python/prison_labor_dodgers.py) |
 
 ### Level 2: 
 
@@ -93,3 +94,8 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 | [Disorderly Escape](Problems/disorderly_escape.MD) | [Solution](Solutions_Python/disorderly_escape.py)|
 
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
+
+##### Contributors:
+
+- [Smaranjit Ghose](https://github.com/smaranjitghose)
+- [^ Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
