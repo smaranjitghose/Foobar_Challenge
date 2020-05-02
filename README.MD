@@ -15,7 +15,7 @@ And I tuned in to explore it.
 <p align="center"><img width=40% src="https://media.giphy.com/media/LSX5dYGZJ2Z7fy5rA4/giphy.gif"></p>
 
 
-__I cannot suggest a guranteed way to get this or if actually Google is going to hire you via this process.__
+__I cannot suggest a guranteed way to get this (Although there are a lot of tricks available now) or if actually Google is going to hire you via this process.__
 
 <p align="center"><img width=30% src="https://media.giphy.com/media/21N2l4CJRuqX7eeJhg/giphy.gif"></p>
 
@@ -23,7 +23,7 @@ However, the problems were really nice and beautifull distributed across 5 level
 
 This repo is meant to provide you a taste of the problems I was given so that you can practice and hone your skills further!
 
-__Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficienct ones out there__
+__Please note I do not claim any of the problems to be owned by me and the solutions given below are what worked for us and there might be even more efficienct ones out there. This repo is purely for educational purposes!__
 
 
 <h2 align= "center"><b> Suggestions and Solutions </b></h2>
