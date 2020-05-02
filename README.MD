@@ -8,7 +8,7 @@ Now, there are several ways for getting an invite. For some of us it may be rand
 
 
 If Google still hires through this process or not is a mystery. However, the problems were really nice for practicing one's coding skills.
-<p align="center"><img width=30% src="https://media.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif"></p>
+<p align="center"><img width=40% src="https://media.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif"></p>
 
 
 ##### __Please note: This repository is purely for educational purposes. We do not claim any responsibility for any misuse of this!__
