@@ -92,12 +92,16 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 |---------|-------------|
 | [Bringing Gun to Guard Fight](Problems/bringing_gun_to_guard_fight.MD)  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
 | [Running with the bunnies](Problems/running_with_bunnies.MD) | [Solution](Solutions_Python/running_with_the_bunnies.py)|
+| [** Escape Pods](Problems/escape_pods.MD) | [Solution](Solutions_Python/escape_pods.py)|
+| [** Free the Bunny Prisoners](Problems/free_the_bunny_prisoners.MD) | [Solution](Solutions_Python/find_the_access_codes.py)|
+
 
 ### Level 5: 
 
 | Problem | Solution(s) |
 |---------|-------------|
 | [Disorderly Escape](Problems/disorderly_escape.MD) | [Solution](Solutions_Python/disorderly_escape.py)|
+| [** Expanding Nebula](Problems/expanding_nebula.MD) | [Solutions](Solutions_Python/expanding_nebula.py)|
 
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
 
