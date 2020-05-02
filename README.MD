@@ -1,47 +1,37 @@
 <h1 align= "center"><b>Foobar Challenge </b></h1>
 
 
-The Google Foo bar challenge is a known in the dev community to be a secret way Google shortlists developers. However, the way it works and the end result is not transparent yet.
+The Foo bar challenge by Google is a known in the dev community to be a secret way Google shortlists developers. However, the way it works and the end result is not known yet.
 
-<p align="center"><img width=30% src="https://media.giphy.com/media/THXafM2DiFKmCwZDfP/giphy.gif"></p>
+Now, there are several ways for getting an invite. For some of us it may be random based on our search history. For others, it can be triggered. The following video by [Aaishika](https://github.com/aaishikasb) provides a nice walthrough for this:
 
-While debugging an error in a  personal project of mine, I suddenly got a invite for this.
-
-<p align="center"><img width=60% src="https://github.com/smaranjitghose/Foobar_Challenge/blob/master/assets/foobar_invite.jpg"></p>
-
-And I tuned in to explore it.
+[![Alt text](https://img.youtube.com/vi/zINg12v7cq4/0.jpg)](https://www.youtube.com/watch?v=zINg12v7cq4)
 
 
-<p align="center"><img width=40% src="https://media.giphy.com/media/LSX5dYGZJ2Z7fy5rA4/giphy.gif"></p>
+If Google still hires through this process or not is a mystery. However, the problems were really nice for practicing one's coding skills.
+<p align="center"><img width=30% src="https://media.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif"></p>
 
 
-__ or if actually Google is going to hire you via this process.__
-
-<p align="center"><img width=30% src="https://media.giphy.com/media/21N2l4CJRuqX7eeJhg/giphy.gif"></p>
-
-However, the problems were really nice and beautifull distributed across 5 levels of difficulty.
-
-This repo is meant to provide you a taste of the problems I was given so that you can practice and hone your skills further!
-
-##### __Please note: This repo is purely for educational purposes. The solutions given below are what worked for us and there might be even more efficiennt ones possible.!__
+##### __Please note: This repository is purely for educational purposes. We do not claim any responsibility for any misuse of this!__
 
 
+<h2 align= "center"><b>Instructions for a headstart</b></h2>
+<p align="center"><img width=40% src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif"></p>
 
-<p align="center"><img width=30% src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif"></p>
-
-<h2 align= "center"><b>Some Suggestions for a headstart</b></h2>
+- When you get the invite and accept it, __do not forget to sign in__. Otherwise, if you close that tab, your session will be saved. And even you open the same link again, you won't be able to access it
 
 - A list shell of commands that help you to navigate through their UNIX terminal like window:
-
 <p align="center"><img width=60% src="assets/foobar_commands.png"></p>
 
-**No other shell commands work other than these
+**No other shell commands work other than these**
 
 - You can either use Java or Python 2.7 to solve the problems
 
-- Every time you want to solve a new problem, type ```request``` and then press ```Y```. A problem with a dedicated timer will be fetched( The time alloted depends on the level you are at. The min is 48 hours)
+- Every time you want to solve a new problem, type ```request``` and then press ```Y```. A problem is fetched within a few seconds and a  timer is started for that problem.( The time alloted depends on the level you are at. The min is 48 hours)
 
-- To check if you got the problem, write ```ls``` (Typically the problem statement and the other files for it is fetched inside a dedicated folder)
+- __Note: The timer is still running in the background even if you close the particular tab or window and revisit later on__
+
+- To check if you got the problem, type ```ls``` (Typically the problem statement and the other files for it is fetched inside a dedicated folder)
 
 - __Note: Google allows you to have only problem at a time. You cannot request another problem, unless you have solved the current one__
 
@@ -75,18 +65,22 @@ This repo is meant to provide you a taste of the problems I was given so that yo
 
 <h2 align= "center"><b> Questions </b></h2>
 
+<p align="center"><img width=30% src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"></p>
+
+
 The challenge is divided into 5 levels of increasing difficulty. The number of questions in each level are:
-    - Level 1: 1 question
-    - Level 2: 2 question
-    - Level 3: 3 question
-    - Level 4: 2 questions
-    - Level 5: 1 question
+- Level 1: 1 question
+- Level 2: 2 question
+- Level 3: 3 question
+- Level 4: 2 questions
+- Level 5: 1 question
 
 It's hilarious that Google has a palindrome hidden here as "12321" 🤣
 
 Nevertheless, here is a collection of questions and their accepted solutions majority of people have encountered. 
 
-##### __Please note: This repo is purely for educational purposes. The solutions given below are what worked for us and there might be even more efficiennt ones possible.!__
+##### __Please note: This repository is purely for educational purposes. The solutions given below are what worked for us and there might be even more efficient ones possible. We do not claim responsibility for any misuse of this!__
+
 
 ### Level 1: 
 
@@ -104,7 +98,7 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | [Numbers Station Coded Messages](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/number_station_coded_messages.py) |
 | [* Hey I already did that](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/hey_i_already_did_that.py)|
 | [** Power Hungry](Problems/power_hungry.MD) | [Solution](Solutions_Python/power_hungry.py)|
-| [*** Lovely Lucky Lambs](Problems/lovely_lucky_lambs.MD) | [Solution](Solutions_Python/lovely_lambs.py)|
+| [**** Lovely Lucky Lambs](Problems/lovely_lucky_lambs.MD) | [Solution](Solutions_Python/lovely_lambs.py)|
 
 ### Level 3: 
 
@@ -116,6 +110,7 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | [* Fuel Injection Perfection](Problems/fuel_infection_perfection.MD) | [Solution](Solutions_Python/fuel_injection_perfection.py) |
 | [* Bomb Baby](Problems/bomb_baby.MD) | [Solution](Solutions_Python/bomb_baby.py) |
 | [** Doomsday Fuel](Problems/doomsday_fuel.MD) | [Solution](Solutions_Python/doomsday_fuel.py) |
+| [*** Prepare the bunnies escape](Problems/prepare_the_bunnies_escape.MD) | [Solution](Solutions_Python/prepare_the_bunnies_escape.py)|
 
 ### Level 4: 
 
@@ -124,7 +119,7 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | [Bringing Gun to Guard Fight](Problems/bringing_gun_to_guard_fight.MD)  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
 | [Running with the bunnies](Problems/running_with_bunnies.MD) | [Solution](Solutions_Python/running_with_the_bunnies.py)|
 | [* Escape Pods](Problems/escape_pods.MD) | [Solution](Solutions_Python/escape_pods.py)|
-| [** Free the Bunny Prisoners](Problems/free_the_bunny_prisoners.MD) | [Solution](Solutions_Python/find_the_access_codes.py)|
+| [** Free the Bunny Prisoners](Problems/free_the_bunny_prisoners.MD) | [Solution](Solutions_Python/free_the_bunny_prisoners.py)|
 
 
 ### Level 5: 
@@ -136,9 +131,10 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
 
-##### Contributors of problems:
+<h2 align= "center"><b>Problems Contributed by:</b></h2>
 
 - [* Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [** Suhrid Datta](https://github.com/suhriddatta)
-- [*** Somesh Koli](https://github.com/someshkoli)
+- [*** Aaishika Bhattacharya](https://github.com/aaishikasb)
+- [**** Somesh Koli](https://github.com/someshkoli)
   
