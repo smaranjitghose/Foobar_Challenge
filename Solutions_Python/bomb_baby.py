@@ -1,4 +1,4 @@
-def answer(x, y):
+def solution(x, y):
     generations = 0
     min_max = [int(x), int(y)]
     while min_max[0] > 1 and min_max[1] > 1:

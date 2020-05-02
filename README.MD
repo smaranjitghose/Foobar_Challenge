@@ -82,7 +82,8 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 | [Queue To Do](Problems/queue_to_do.MD) | [Solution](Solutions_Python/queue_to_do.py) |
 | [The Grandest Staircase of them All](Problems/the_grandest_staircase_of_them_all.MD) | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
 | [Find the Access Codes](Problems/find_access_codes.MD) | [Solution](Solutions_Python/find_the_access_codes.py) |
-| [* Fuel Injection Perfection](Problems/fuel_infection_perfection.MD) | [Solution](Solutions_Python/fuel_injection_perfection.py)
+| [* Fuel Injection Perfection](Problems/fuel_infection_perfection.MD) | [Solution](Solutions_Python/fuel_injection_perfection.py) |
+| [** Doomsday Fuel](Problems/doomsday_fuel.MD) | [Solution](Solutions_Python/doomsday_fuel.py)
 
 ### Level 4: 
 
