@@ -23,7 +23,7 @@ However, the problems were really nice and beautifull distributed across 5 level
 
 This repo is meant to provide you a taste of the problems I was given so that you can practice and hone your skills further!
 
-__Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficient ones out there__
+__Please note I do not claim any problems to be owned by me and the solutions given below are what worked for me and there might be even more efficienct ones out there__
 
 
 <h2 align= "center"><b> Suggestions and Solutions </b></h2>
@@ -61,21 +61,22 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 ### Level 1: 
 
 | Problem | Solution(s) |
-|---------|----------|
+|---------|-------------|
 | [I Love Lance and Janice](Problems/i_love_lance_and_janice.MD) | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
-| [Prison Labor Dodgers ^](Problems/prison_labor_dodgers.MD) | [Solution](Solutions_Python/prison_labor_dodgers.py) |
+| [* Prison Labor Dodgers](Problems/prison_labor_dodgers.MD) | [Solution](Solutions_Python/prison_labor_dodgers.py) |
+| [** Braille Translation](Problems/braille_translation.MD) | [Solution](Solutions_Python/braille_translation.py) |
 
 ### Level 2: 
 
 | Problem |Solution(s)|
-|---------|----------|
+|---------|-----------|
 | [Please Pass the Coded Messages](Problems/please_pass_the_coded_messages.MD) | [Solution](Solutions_Python/please_pass_the_coded_messages.py) |
 | [Numbers Station Coded Messages](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/number_station_coded_messages.py) |
 
 ### Level 3: 
 
 | Problem | Solution(s) |
-|---------|----------|
+|---------|-------------|
 | [Queue To Do](Problems/queue_to_do.MD) | [Solution](Solutions_Python/queue_to_do.py) |
 | [The Grandest Staircase of them All](Problems/the_grandest_staircase_of_them_all.MD) | [Solution](Solutions_Python/the_grandest_staircase_of_them_all.py) |
 | [Find the Access Codes](Problems/find_access_codes.MD) | [Solution](Solutions_Python/find_the_access_codes.py) |
@@ -83,14 +84,14 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 ### Level 4: 
 
 | Problem | Solution(s) |
-|---------|----------|
+|---------|-------------|
 | [Bringing Gun to Guard Fight](Problems/bringing_gun_to_guard_fight.MD)  | [Solution](Solutions_Python/bringing_gun_to_a_guard_fight.py) |
 | [Running with the bunnies](Problems/running_with_bunnies.MD) | [Solution](Solutions_Python/running_with_the_bunnies.py)|
 
 ### Level 5: 
 
 | Problem | Solution(s) |
-|---------|----------|
+|---------|-------------|
 | [Disorderly Escape](Problems/disorderly_escape.MD) | [Solution](Solutions_Python/disorderly_escape.py)|
 
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
@@ -98,4 +99,5 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 ##### Contributors:
 
 - [Smaranjit Ghose](https://github.com/smaranjitghose)
-- [^ Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
+- [* Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
+- [** Suhrid Datta](https://github.com/suhriddatta)
