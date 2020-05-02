@@ -16,7 +16,7 @@ def build_map(n, nums):
                 mapping[(generation, i)].add(j)
     return mapping
 
-def answer(g):
+def solution(g):
     g = list(zip(*g)) # transpose
     nrows = len(g)
     ncols = len(g[0])
