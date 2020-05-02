@@ -72,7 +72,8 @@ __Please note I do not claim any problems to be owned by me and the solutions gi
 |---------|-----------|
 | [Please Pass the Coded Messages](Problems/please_pass_the_coded_messages.MD) | [Solution](Solutions_Python/please_pass_the_coded_messages.py) |
 | [Numbers Station Coded Messages](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/number_station_coded_messages.py) |
-| [Hey I already did that](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/hey_i_already_did_that.py)|
+| [* Hey I already did that](Problems/number_station_coded_messages.MD) | [Solution](Solutions_Python/hey_i_already_did_that.py)|
+| [** Power Hungry](Problems/power_hungry.MD) | [Solution](Solutions_Python/power_hungry.py)|
 
 ### Level 3: 
 
