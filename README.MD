@@ -15,7 +15,7 @@ And I tuned in to explore it.
 <p align="center"><img width=40% src="https://media.giphy.com/media/LSX5dYGZJ2Z7fy5rA4/giphy.gif"></p>
 
 
-__I cannot suggest a guranteed way to get this (Although there are a lot of tricks available now) or if actually Google is going to hire you via this process.__
+__ or if actually Google is going to hire you via this process.__
 
 <p align="center"><img width=30% src="https://media.giphy.com/media/21N2l4CJRuqX7eeJhg/giphy.gif"></p>
 
@@ -23,24 +23,27 @@ However, the problems were really nice and beautifull distributed across 5 level
 
 This repo is meant to provide you a taste of the problems I was given so that you can practice and hone your skills further!
 
-__Please note I do not claim any of the problems to be owned by me and the solutions given below are what worked for us and there might be even more efficienct ones out there. This repo is purely for educational purposes!__
+##### __Please note: This repo is purely for educational purposes. The solutions given below are what worked for us and there might be even more efficiennt ones possible.!__
 
 
-<h2 align= "center"><b> Suggestions and Solutions </b></h2>
 
 <p align="center"><img width=30% src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif"></p>
 
-##### Some suggestions for a headstart(if you get invited for this):
+<h2 align= "center"><b>Some Suggestions for a headstart</b></h2>
 
 - A list shell of commands that help you to navigate through their UNIX terminal like window:
 
 <p align="center"><img width=60% src="assets/foobar_commands.png"></p>
 
-**No other shell command works other than these
+**No other shell commands work other than these
 
-- You can either use Java or Python to solve the problems
+- You can either use Java or Python 2.7 to solve the problems
 
 - Every time you want to solve a new problem, type ```request``` and then press ```Y```. A problem with a dedicated timer will be fetched( The time alloted depends on the level you are at. The min is 48 hours)
+
+- To check if you got the problem, write ```ls``` (Typically the problem statement and the other files for it is fetched inside a dedicated folder)
+
+- __Note: Google allows you to have only problem at a time. You cannot request another problem, unless you have solved the current one__
 
 - Now move inside the folder using ```cd name-of-the-problem```
 
@@ -49,14 +52,41 @@ __Please note I do not claim any of the problems to be owned by me and the solut
     - constraints.txt : Contains the contraints of the given problem statement
     - solution.py: The file where you can write your solution in Python
     - solution.java: The file where you can write your solution in Java
+    
 - To view the problem statement type ```cat readme.txt```
+
 - To start solving using Python(my personal preferrence) or Java, type ```edit solution.py``` or ```edit solution.java```
+
 - Now an editor pops up towards the right of the screen
-- Keep in mind that you should not change the name of the function while you give your solution here
-- Press ```CTRL+S``` to save and ```CTRL+E``` to exit the editor
+
+- Solve the question here or do some trials in an editor like [VSCODE](https://code.visualstudio.com/download) and paster your solution here 
+
+- Remember: The python solutions are to be written in Python 2.7 and not Python 3. You can use an online compiler to change the version and test it
+
+- __Note: You should not change the name of the function while you write your solution here otherwise it won't run__
+
+- Press ```CTRL+S``` to save your changes
+
+- Now press ```CTRL+E``` to exit the editor
+
 - To test your solution on the given test cases (including hidden ones), type ```verify solution.py``` or ```verify solution.java```
+
 - If all of your test cases are satisfied, submit by typing ```submit solution.py``` or ```submit solution.java```
 
+<h2 align= "center"><b> Questions </b></h2>
+
+The challenge is divided into 5 levels of increasing difficulty. The number of questions in each level are:
+    - Level 1: 1 question
+    - Level 2: 2 question
+    - Level 3: 3 question
+    - Level 4: 2 questions
+    - Level 5: 1 question
+
+It's hilarious that Google has a palindrome hidden here as "12321" 🤣
+
+Nevertheless, here is a collection of questions and their accepted solutions majority of people have encountered. 
+
+##### __Please note: This repo is purely for educational purposes. The solutions given below are what worked for us and there might be even more efficiennt ones possible.!__
 
 ### Level 1: 
 
@@ -109,4 +139,5 @@ __Please note I do not claim any of the problems to be owned by me and the solut
 
 - [* Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [** Suhrid Datta](https://github.com/suhriddatta)
+- [*** Aaishika Bhattacharya](https://github.com/aaishikasb)
   
