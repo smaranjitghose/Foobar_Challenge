@@ -2,6 +2,8 @@
 
 The Foo bar challenge by Google is a known in the dev community to be a secret way Google shortlists developers.
 
+<p align="center"><img width=40% src="https://media.giphy.com/media/1iTHmBxVMIRcK8tG/giphy.gif"></p>
+
 Now, there are several ways for getting an invite. For some of us it may be random based on our search history. For others, it can be triggered. The following video by [Aaishika](https://github.com/aaishikasb) provides a nice walthrough for this:
 
 [![Alt text](https://img.youtube.com/vi/zINg12v7cq4/0.jpg)](https://www.youtube.com/watch?v=zINg12v7cq4)
