@@ -13,7 +13,7 @@ def remove(guards, ref):
             j+=1 
     guards[ref]=[-1]
 
-def answer(banana_list):
+def solution(banana_list):
     guards= [[] for i in range(len(banana_list))]
     bad=0
     

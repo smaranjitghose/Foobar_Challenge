@@ -1,6 +1,6 @@
 from itertools import combinations
 
-def answer(num_buns, num_required):
+def solution(num_buns, num_required):
     buns = [[] for i in range(num_buns)]
     if num_required == 0:
         return buns
