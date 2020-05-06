@@ -18,7 +18,7 @@ def calculateSum(n) :
           
     return sm
 
-def sol(l):
+def solution(l):
     if l ==0 :
         return 0
     # if l == 
