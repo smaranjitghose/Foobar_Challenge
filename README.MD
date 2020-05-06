@@ -90,6 +90,7 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | [I Love Lance and Janice](Problems/i_love_lance_and_janice.MD) | [Solution](Solutions_Python/i_love_lance_and_janice.py) |
 | [* Prison Labor Dodgers](Problems/prison_labor_dodgers.MD) | [Solution](Solutions_Python/prison_labor_dodgers.py) |
 | [** Braille Translation](Problems/braille_translation.MD) | [Solution](Solutions_Python/braille_translation.py) |
+| [*** Minion Labor Shifts](Problems/minion_labor_shifts.MD)| [Solution](Solutions_Python/minion_labor_shifts.py) |
 
 ### Level 2: 
 
