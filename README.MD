@@ -129,8 +129,8 @@ Nevertheless, here is a collection of questions and their accepted solutions maj
 | Problem | Solution(s) |
 |---------|-------------|
 | [Disorderly Escape](Problems/disorderly_escape.MD) | [Solution](Solutions_Python/disorderly_escape.py)|
-| [** Expanding Nebula](Problems/expanding_nebula.MD) | [Solutions](Solutions_Python/expanding_nebula.py)|
-| [^ Dodge the Lasers](Problems/dodge_the_lasers.MD) | [Solutions](Solutions_Python/dodge_the_lasers.py)|
+| [** Expanding Nebula](Problems/expanding_nebula.MD) | [Solution](Solutions_Python/expanding_nebula.py)|
+| [^ Dodge the Lasers](Problems/dodge_the_lasers.MD) | [Solution](Solutions_Python/dodge_the_lasers.py)|
 <p align="center"><img width=80% src="assets/all_levels_completion.gif"></p>
 
 <h2 align= "center"><b>Problems Contributed by:</b></h2>
