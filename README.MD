@@ -71,8 +71,8 @@ If Google still hires through this process or not is a mystery. However, the pro
 
 The challenge is divided into 5 levels of increasing difficulty. The number of questions in each level are:
 - Level 1: 1 question
-- Level 2: 2 question
-- Level 3: 3 question
+- Level 2: 2 questions
+- Level 3: 3 questions
 - Level 4: 2 questions
 - Level 5: 1 question
 
